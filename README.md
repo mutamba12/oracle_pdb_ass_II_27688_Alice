@@ -151,8 +151,4 @@ The temporary PDB `AL_TO_DELETE_PDB_27688` was successfully deleted.
 
 I, **Mutamba Alice (Student ID 27688)**, confirm that the work documented in this repository represents the practical Oracle PDB assignment work completed in my Oracle 19c environment. The screenshots included in the repository should be the original evidence captured from my own environment.
 
-## Submission Information
 
-- **Repository Link:** Add the public GitHub repository URL here after creating the repository.
-- **PDB Name Created:** `AL_PDB_27688`
-- **Issues Encountered:** SQL*Plus command-formatting errors, an existing temporary PDB, and verification of the USERS tablespace/quota. These were resolved during the practical work.
