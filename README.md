@@ -102,8 +102,8 @@ Oracle Enterprise Manager Database Express was accessed through the configured H
 
 The OEM dashboard confirmed the Oracle 19c environment and database `ORCL`. The dashboard was accessed using the Oracle administrative account.
 
-## Screenshots
-
+## Screenshot
+![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/oem_dashboard/oem_database_home.PNG?raw=true)
 The screenshots are organized into the following folders:
 
 ```text
