@@ -114,6 +114,7 @@ screenshots/
 └── oem_dashboard/
 ```
 ![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/pdb_creation/01_pdb_creation.png?raw=true)
+![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/pdb_delete/01_DELETE_PDB_27688.PNG?raw=true)
 Place the actual screenshots from the completed practical work into the appropriate folders.
 
 ## Challenges and Solutions
