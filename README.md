@@ -101,20 +101,16 @@ Oracle Enterprise Manager Database Express was accessed through the configured H
 `https://localhost:5500/em`
 
 The OEM dashboard confirmed the Oracle 19c environment and database `ORCL`. The dashboard was accessed using the Oracle administrative account.
-
-## Screenshot
-![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/oem_dashboard/oem_database_home.PNG?raw=true)
-![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/oem_dashboard/oem_database_home2.PNG?raw=true)
 The screenshots are organized into the following folders:
-
-```text
 screenshots/
 ├── pdb_creation/
 ├── pdb_deletion/
 └── oem_dashboard/
-```
+
 ![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/pdb_creation/01_pdb_creation.png?raw=true)
 ![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/pdb_delete/01_DELETE_PDB_27688.PNG?raw=true)
+![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/oem_dashboard/oem_database_home.PNG?raw=true)
+![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/oem_dashboard/oem_database_home2.PNG?raw=true)
 Place the actual screenshots from the completed practical work into the appropriate folders.
 
 ## Challenges and Solutions
