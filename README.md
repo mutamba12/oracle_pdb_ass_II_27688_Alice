@@ -104,6 +104,7 @@ The OEM dashboard confirmed the Oracle 19c environment and database `ORCL`. The 
 
 ## Screenshot
 ![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/oem_dashboard/oem_database_home.PNG?raw=true)
+![image alt](https://github.com/mutamba12/oracle_pdb_ass_II_27688_Alice/blob/main/screenshots/oem_dashboard/oem_database_home2.PNG?raw=true)
 The screenshots are organized into the following folders:
 
 ```text
